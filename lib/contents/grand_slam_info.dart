@@ -1,0 +1,42 @@
+const GrandSlamInfo = [
+  {
+    'name': 'Australian Open',
+    'image1': 'images/AO2020.jpg',
+    'image2':'images/ao-rd.jpg',
+    'image3': 'images/champs/ao-champs.jpg',
+    'when':'20th Jan to 2nd Feb, 2020',
+    'where': 'Melbourne Park, Australia',
+    'winner':'Novak Djokovic',
+    'runner-up': 'Dominic Theim',
+  },
+  {
+    'name': 'French Open',
+    'image1': 'images/French_Open_2019.jpg',
+    'image2':'images/rg-rd1.jpg',
+    'image3': 'images/champs/rg-champs.jpg',
+    'when': '26th May to 9th Jun, 2019',
+    'where': "Paris, France",
+    'winner':'Rafael Nadal',
+    'runner-up': 'Dominic Theim',
+  },
+  {
+    'name':'Wimbledon',
+    'image1': 'images/Wimbledon2019.jpg',
+    'image2':'images/Wimbledon-centre-court1.jpg',
+    'image3': 'images/champs/wb-champs.jpg',
+    'when':"1st Jul to 14th Jul, 2019",
+    'where':'London, United Kingdom',
+    'winner':'Novak Djokovic',
+    'runner-up': 'Roger Federer',
+  },
+  {
+    'name': 'US Open',
+    'image1': 'images/uso2019.jpg',
+    'image2':'images/uso-rd1.jpg',
+    'image3': 'images/champs/uso-champs1.jpg',
+    'when': "26th Aug to 8th Sept, 2019 ",
+    'where':'New York City, USA',
+    'winner':'Rafael Nadal',
+    'runner-up': 'Danil Medvedev',
+  }
+];
